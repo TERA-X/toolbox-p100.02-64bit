@@ -1,6 +1,6 @@
 {
   "files": {
-    "manifest.json": "133BCE847B3B4403CE863CB9F01B85EA68E8077B587B0EAD6BDC3C3E0A0E66BB",
+    "manifest.json": "216e28c294cabe7f9fa9a6cec370b38a9eba08fb036eb918a1f8650af1e1b00a",
     "module.json": "99b10524d0ce69e3db514099a6fd3c22a7037b1e61f43fcf2a28a9a912692acb",
     "Newtonsoft.Json.dll": "564e6201dbf6354460d9ca180f0752d50dd7496fff49e05f67a9af42a2e772c7",
     "Binaries/package.json": "acda28f48c0acec3550ea9d5d49937462d157dd96efc62f858fda8ab1515c1f1",
@@ -71,8 +71,8 @@
     "Doc/mod/tera-game-state.md": "da912584000853d4f54e6546493734a448b763594a8be21e5e776e4dad12d7d2",
     "Doc/mod/timers.md": "349569c7695baa3ccb95264962224fe7a4d17c068d9ccabafee33c7403594a31",
     "Mods/bugfix/module.json": "61c0c457a35cba7ac6150bb12071aecf460aca98dd94f237ebc0c768433cda23",
-    "Mods/command/module.json": "afc68c29f32e96a19aa27182931914385acf6ef71b6e4fb6dc56985182e58635",
-    "Mods/library/module.json": "d0d261032eeaa30334ac0f506c138343de35cd941ed441c4cd16d5556e4044d8",
+    "Mods/command/module.json": "ca47f99d0cd166d8245d62dc6a2ea27962dd9fcd57b1d7ad461a31e5d5e55df6",
+    "Mods/library/module.json": "ddf31f7e295c39ed523fd64f81f6109d37b4fefe61db9e8146d46a7081658250",
     "Mods/tera-game-state/module.json": "48da23f77a6ea52f8b33b73b56eeefe7efc19bb3770c1acf7d07cd58680e2fd8",
     "node_modules/binary-search/binary-search.d.ts": "354057e1de0c99f67e27d8845dcb0bfbe646a1c7ac942415a2d2443f192e5027",
     "node_modules/binary-search/index.js": "2c647cb7a142dd048870e69b4ca4bdb5b45c73a6190a8fce61a2724df678b27f",
