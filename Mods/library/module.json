@@ -1,0 +1,6 @@
+{
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/library/master/"],
+    "supportUrl": "https://github.com/X0RPR0/library/issues",
+    "name": "library",
+    "disableAutoUpdate": false
+}
